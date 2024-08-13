@@ -17,7 +17,7 @@ For English version, please go [here](https://github.com/shenjackyuanjie/Minecra
 | Java 1.16.5 | v1.2.3 | 修 BUG |
 | Java 1.18.2 | v1.2.3 | 修 BUG |
 | Java 1.19.3 | v1.2.3 | 修 BUG |
-| Java 全版本 | v1.2.3 | 修 BUG |
+| Java 全版本 | v1.3.0 | 修 BUG |
 
 ## 注意事项
 
@@ -26,6 +26,7 @@ For English version, please go [here](https://github.com/shenjackyuanjie/Minecra
 我会尽快看到并且添加\更改。
 
 ## 鸣谢列表（排名不分先后）
+
 - 科技树添加
     - SciCraft
         - 获取基岩科技树（未包含）
